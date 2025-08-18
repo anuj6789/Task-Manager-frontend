@@ -2,8 +2,6 @@
 
 A clean, dynamic, and responsive user interface for the Task Manager application. This project was built with vanilla JavaScript, HTML, and Tailwind CSS to create a modern single-page application experience.
 
-![App Screenshot](https://i.imgur.com/your-screenshot-url.jpg)
-*(Suggestion: Take a screenshot of your running frontend, upload it to a site like Imgur, and paste the link here)*
 
 ## Features
 
